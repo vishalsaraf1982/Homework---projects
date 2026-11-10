@@ -7,3 +7,4 @@ print ( "After that i either have coding or I go to the gym or to my kickboxing 
 print ("Then i get home , shower and eat dinner ")
 print ("And lastly i get ready for bed and go to bed ")
 print ("Thats all ")
+
